@@ -7,7 +7,7 @@
 🚀 Passinote about building efficient, automated, and scalable systems that bridge the gap between development and operations.
 
 - 🎓 I'm a student at **Shrimati Kashibai College of Engineering, Pune**, studying **Computer Engineering**.
-- 🚀 💻 I enjoy working with **DevOps, Cloud Computing, Automation, Infrastructure as Code (IaC)**
+- 🚀 I enjoy working with **DevOps, Cloud Computing, Automation, Infrastructure as Code (IaC)**
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datta-rahegaonkar/) [![Website](https://img.shields.io/badge/Website-_?style=for-the-badge&logo=rss&logoColor=white)](https://port-folio-iota-eight.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattarahegaonkar09@gmail.com)
@@ -28,5 +28,6 @@
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DattaRahegaonkar&theme=tokyo_night)
+
 
 
