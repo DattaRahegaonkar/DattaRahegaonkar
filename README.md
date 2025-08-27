@@ -23,11 +23,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DattaRahegaonkar&theme=tokyonight&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DattaRahegaonkar&theme=tokyonight&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DattaRahegaonkar&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=DattaRahegaonkar&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DattaRahegaonkar&theme=tokyo_night)
+
 
 
 
