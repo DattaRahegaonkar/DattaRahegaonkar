@@ -6,7 +6,7 @@
 
 🚀 Passinote about building efficient, automated, and scalable systems that bridge the gap between development and operations.
 
-- 🎓 I'm a student at **Shrimati Kashibai College of Engineering, Pune**, studying **Computer Engineering**.
+- 🎓 I'm a student at **Shrimati Kashibai Navale College of Engineering, Pune**, studying **Computer Engineering**.
 - 🚀 I enjoy working with **DevOps, Cloud Computing, Automation, Infrastructure as Code (IaC)**
 ## 📫 Let's Connect
 
@@ -32,4 +32,5 @@
 ## 📈 Contribution Graph  
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DattaRahegaonkar&theme=tokyo-night&hide_border=true)
+
 
