@@ -1,4 +1,3 @@
-this is our profile readme.md :
 # Hi 👋, I'm Datta Rahegaonkar
 
 *Automate what you can, monitor what you can’t.*
@@ -22,10 +21,10 @@ this is our profile readme.md :
 ## 📊 My GitHub Stats
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DattaRahegaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DattaRahegaonkar&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DattaRahegaonkar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DattaRahegaonkar&layout=compact&theme=tokyonight&hide_border=true)
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=DattaRahegaonkar&theme=tokyonight&hide_border=true)
