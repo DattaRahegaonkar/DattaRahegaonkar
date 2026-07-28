@@ -27,7 +27,7 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DattaRahegaonkar&layout=compact&theme=tokyonight&hide_border=true)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=DattaRahegaonkar&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DattaRahegaonkar&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph  
 
