@@ -14,9 +14,15 @@
 
 ## 🛠️ My Tech Stack  
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="nodejs" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="python" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="mongodb" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="docker" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" alt="kubernetes" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices" alt="aws" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" alt="vercel" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify" alt="netlify" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/terraform-blue?style=for-the-badge&logo=terraform" alt="terraform" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/linux-blue?style=for-the-badge&logo=linux" alt="linux" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins" alt="jenkins" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" alt="githubactions" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="git" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="github" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" alt="vscode" height="28"/>&nbsp;&nbsp;  <img src="https://img.shields.io/badge/vim-blue?style=for-the-badge&logo=vim" alt="vim" height="28"/>
-</div>
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana&logoColor=white)
 
 ## 📊 My GitHub Stats
 
