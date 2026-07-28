@@ -12,6 +12,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datta-rahegaonkar/) [![Website](https://img.shields.io/badge/Website-_?style=for-the-badge&logo=rss&logoColor=white)](https://port-folio-iota-eight.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattarahegaonkar09@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/dattarahegaonkar](https://www.linkedin.com/in/datta-rahegaonkar/))
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:dattarahegaonkar09@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white)](https://port-folio-iota-eight.vercel.app/)
+
 ## 🛠️ My Tech Stack  
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
